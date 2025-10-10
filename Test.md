@@ -24,9 +24,9 @@ Works quite well.
 
     enter code here
 No idea what that one does, but seems interesting.
-|Oh boy| These tables will |
+|Oh boy|will definitely|
 |--|--|
-| definitely get |  messy|
+|These tables|get messy|
 
 Here's a link
 [Link](https://stackedit.io/app#)
