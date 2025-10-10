@@ -10,6 +10,7 @@ And now
  1. Some numbers!
  2. Number 2
  3. Number 3
+ 4. Number 4
 
 Lots of fun stuff
 
