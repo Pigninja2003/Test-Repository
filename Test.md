@@ -27,7 +27,6 @@ No idea what that one does, but seems interesting.
 |Oh boy|will definitely|
 |--|--|
 |These tables|get messy|
-|--|--|
 |Test|Test|
 
 
