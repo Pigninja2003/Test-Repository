@@ -33,6 +33,11 @@ Here's a link
 [Link](https://stackedit.io/app#)
 
 ![My Cobblemon Map](https://drive.google.com/file/d/1twJ6yEnDBmrIIfL0G1kgRJ0z70H37u-C/view?usp=drive_link)
-It seems like images don't work
-![Gumshoe](https://static.wikia.nocookie.net/aceattorney/images/6/65/Sprite-gumshoe.gif/revision/latest?cb=20120226001744)
+
+It seems like images don't work 
+
+I lied, they just need to be on a website (or possibly even saved in a repo folder)
+
+See, it works!
+![Gumshoe with doge](https://preview.redd.it/man-this-new-render-of-gumshoe-from-the-investigations-v0-3c6cfjsl3d7d1.jpeg?auto=webp&s=0156879be5fa910d0ed66f263768f979fb33dece)
 **
