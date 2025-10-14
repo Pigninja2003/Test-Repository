@@ -56,7 +56,9 @@ More info here to test titles
 I'm testing images again, this time using an image in the repo
 
 ![Gumshoe with Doge but from repo](Images/Gumshoe.png)
+
+It, in fact, works B)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzkyODA0NiwtNzYzMDk0NDUyLC0xMj
-A5MzI0NjgyLDcyNTExMDU0Miw3OTAzMzQ2MF19
+eyJoaXN0b3J5IjpbLTExMjgzMTQ5NzEsLTc2MzA5NDQ1MiwtMT
+IwOTMyNDY4Miw3MjUxMTA1NDIsNzkwMzM0NjBdfQ==
 -->
