@@ -52,7 +52,11 @@ More info here to test titles
 
 	Cool stuff
 : Text-to-HTML conversion tool
+
+I'm testing images again, this time using an image in the repo
+
+![Gumshoe with Doge but from repo](Images/Gumshoe.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzA5NDQ1MiwtMTIwOTMyNDY4Miw3Mj
-UxMTA1NDIsNzkwMzM0NjBdfQ==
+eyJoaXN0b3J5IjpbLTgzMzkyODA0NiwtNzYzMDk0NDUyLC0xMj
+A5MzI0NjgyLDcyNTExMDU0Miw3OTAzMzQ2MF19
 -->
