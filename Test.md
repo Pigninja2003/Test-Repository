@@ -44,3 +44,6 @@ I lied, they just need to be on a website (or possibly even saved in a repo fold
 See, it works!
 ![Gumshoe with doge](https://preview.redd.it/man-this-new-render-of-gumshoe-from-the-investigations-v0-3c6cfjsl3d7d1.jpeg?auto=webp&s=0156879be5fa910d0ed66f263768f979fb33dece)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzkwMzM0NjBdfQ==
+-->
