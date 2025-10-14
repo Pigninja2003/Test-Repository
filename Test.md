@@ -51,6 +51,9 @@ Here's some more text I'm adding
 More info here to test titles
 
 	Cool stuff
+
+> Blockquote
+
 : Text-to-HTML conversion tool
 
 I'm testing images again, this time using an image in the repo
@@ -58,7 +61,11 @@ I'm testing images again, this time using an image in the repo
 ![Gumshoe with Doge but from repo](Images/Gumshoe.png)
 
 It, in fact, works B)
+
+# strong text
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgzMTQ5NzEsLTc2MzA5NDQ1MiwtMT
-IwOTMyNDY4Miw3MjUxMTA1NDIsNzkwMzM0NjBdfQ==
+eyJoaXN0b3J5IjpbMTEyOTU1ODY1NywtMTEyODMxNDk3MSwtNz
+YzMDk0NDUyLC0xMjA5MzI0NjgyLDcyNTExMDU0Miw3OTAzMzQ2
+MF19
 -->
