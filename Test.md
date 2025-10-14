@@ -46,6 +46,10 @@ See, it works!
 
 
 Here's some more text I'm adding
+
+## Section 2
+More info here to test titles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MTEwNTQyLDc5MDMzNDYwXX0=
+eyJoaXN0b3J5IjpbLTg2MTc5OTQ1MCw3MjUxMTA1NDIsNzkwMz
+M0NjBdfQ==
 -->
