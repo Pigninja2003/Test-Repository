@@ -52,7 +52,6 @@ More info here to test titles
 
 	Cool stuff
 
-> Blockquote
 
 : Text-to-HTML conversion tool
 
@@ -65,7 +64,7 @@ It, in fact, works B)
 # strong text
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTU1ODY1NywtMTEyODMxNDk3MSwtNz
-YzMDk0NDUyLC0xMjA5MzI0NjgyLDcyNTExMDU0Miw3OTAzMzQ2
-MF19
+eyJoaXN0b3J5IjpbLTg4NzczODg0LC0xMTI4MzE0OTcxLC03Nj
+MwOTQ0NTIsLTEyMDkzMjQ2ODIsNzI1MTEwNTQyLDc5MDMzNDYw
+XX0=
 -->
