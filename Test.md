@@ -25,11 +25,11 @@ Works quite well.
 
     enter code here
 No idea what that one does, but seems interesting.
-|Oh boy|test|
+| Oh boy | test |
 |--|--|
-|These tables|test|
-|Will definitely|Test|
-|get messy|Test|
+| These tables | test |
+| Will definitely | Test |
+| Get messy | Test |
 
 
 Here's a link
@@ -63,8 +63,10 @@ It, in fact, works B)
 
 # strong text
 
+Now for some items
+-in
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk3NjcwMCwtODg3NzM4ODQsLTExMj
+eyJoaXN0b3J5IjpbLTc2MTQ2ODM5MSwtODg3NzM4ODQsLTExMj
 gzMTQ5NzEsLTc2MzA5NDQ1MiwtMTIwOTMyNDY4Miw3MjUxMTA1
 NDIsNzkwMzM0NjBdfQ==
 -->
