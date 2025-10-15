@@ -12,7 +12,7 @@ And now
  3. Number 3
  4. Number 4
 
-Lots of fun stuff
+==Lots of fun stuff==
 
  - [ ] Even a check list
  - [ ] That's right!
@@ -64,7 +64,7 @@ It, in fact, works B)
 # strong text
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzczODg0LC0xMTI4MzE0OTcxLC03Nj
-MwOTQ0NTIsLTEyMDkzMjQ2ODIsNzI1MTEwNTQyLDc5MDMzNDYw
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTk3NjcwMCwtODg3NzM4ODQsLTExMj
+gzMTQ5NzEsLTc2MzA5NDQ1MiwtMTIwOTMyNDY4Miw3MjUxMTA1
+NDIsNzkwMzM0NjBdfQ==
 -->
