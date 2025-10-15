@@ -64,9 +64,20 @@ It, in fact, works B)
 # strong text
 
 Now for some items
--in
+- in a list
+* that should be cascading down
++ but I'm not seeing that effect
+
+- Test
+	- Test
+		- Test
+	- Test
+		- Test
+- Test
+	- Test
+		- Test
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTQ2ODM5MSwtODg3NzM4ODQsLTExMj
+eyJoaXN0b3J5IjpbLTE2MTE3ODg4MywtODg3NzM4ODQsLTExMj
 gzMTQ5NzEsLTc2MzA5NDQ1MiwtMTIwOTMyNDY4Miw3MjUxMTA1
 NDIsNzkwMzM0NjBdfQ==
 -->
