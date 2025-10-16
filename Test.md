@@ -76,8 +76,13 @@ Now for some items
 - Test
 	- Test
 		- Test
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyNzUwNzM4LC0xNjExNzg4ODMsLTE2MT
-E3ODg4MywtODg3NzM4ODQsLTExMjgzMTQ5NzEsLTc2MzA5NDQ1
-MiwtMTIwOTMyNDY4Miw3MjUxMTA1NDIsNzkwMzM0NjBdfQ==
+eyJoaXN0b3J5IjpbODU1NjkyNyw1OTI3NTA3MzgsLTE2MTE3OD
+g4MywtMTYxMTc4ODgzLC04ODc3Mzg4NCwtMTEyODMxNDk3MSwt
+NzYzMDk0NDUyLC0xMjA5MzI0NjgyLDcyNTExMDU0Miw3OTAzMz
+Q2MF19
 -->
