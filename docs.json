@@ -1,22 +1,15 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "PigCorp Docs",
-  "theme": "mint",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Docs",
-        "groups": [
-          {
-            "group": "Pages",
-            "pages": [
-              "index",
-              "Test",
-              "Test 2"
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Test Documentation",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["introduction"]
+    }
+  ]
 }
