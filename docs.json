@@ -7,10 +7,12 @@
     "light": "#07C983",
     "dark": "#0D9373"
   },
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": ["introduction"]
-    }
-  ]
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": ["introduction"]
+      }
+    ]
+  }
 }
