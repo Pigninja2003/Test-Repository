@@ -11,7 +11,11 @@
     "groups": [
       {
         "group": "Getting Started",
-        "pages": ["introduction"]
+        "pages": ["introduction", "example"]
+      },
+      {
+        "group": "Pages",
+        "pages": ["pages/index", "pages/Test", "pages/Test 2"]
       }
     ]
   }
