@@ -229,7 +229,7 @@ Text-to-HTML conversion tool
 
 I'm testing images again, this time using an image in the repo
 
-![Gumshoe with Doge but from repo](Images/Gumshoe.png)
+![Gumshoe with Doge but from repo](/Images/Gumshoe.png)
 
 It, in fact, works B)
 
