@@ -4,6 +4,7 @@ This is a test to see how well this works and if it'll upload to a repository
 
 - Here's a list
 - It lists stuff
+- Added an edit
 
 And now
 
@@ -238,14 +239,8 @@ It, in fact, works B)
 Now for some items
 
 - in a list
-
-
 - that should be cascading down
-
-
 - but I'm not seeing that effect
-
-
 - Test
   - Test
     - Test
