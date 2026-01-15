@@ -5,6 +5,7 @@ This is a test to see how well this works and if it'll upload to a repository
 - Here's a list
 - It lists stuff
 - Added an edit
+- Editing stuff
 
 And now
 
