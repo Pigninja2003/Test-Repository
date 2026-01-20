@@ -1,3 +1,5 @@
 Amogus
 
-This is_an edit_ 
+This is an edit
+
+![Dad Shocked Transparent](/images/DadShockedTransparent.png)
