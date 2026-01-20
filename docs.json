@@ -8,14 +8,27 @@
     "dark": "#0D9373"
   },
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "Getting Started",
-        "pages": ["introduction", "example"]
-      },
-      {
-        "group": "Pages",
-        "pages": ["pages/index", "pages/Test", "pages/Test 2", "pages/A-different-page-to-add"]
+        "tab": "Test Tab",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "introduction",
+              "example"
+            ]
+          },
+          {
+            "group": "Pages",
+            "pages": [
+              "pages/index",
+              "pages/Test",
+              "pages/Test 2",
+              "pages/A-different-page-to-add"
+            ]
+          }
+        ]
       }
     ]
   }
