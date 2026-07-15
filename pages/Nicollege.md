@@ -4,11 +4,15 @@ The **Nicollege/Auguniversity Box Fan**, commonly known as the **NAU Box Fan**, 
 
 ## History
 
+Nicollege/Auguniversity was founded by actor and adventurer **Nicolas Cage**, who, according to university lore, established the institution shortly after stealing the Declaration of Independence. While the circumstances of this event remain the subject of debate and legend, the university credits Cage’s unconventional founding vision as the origin of its emphasis on independence, curiosity, and dramatic flair.
+
 The Nicollege/Auguniversity Box Fan was introduced in 1998 following an unusually warm autumn semester in Provo. At the time, several of the university's older residence halls lacked central air conditioning. The Nicollege Office of Residential Comfort began purchasing inexpensive box fans for student housing, but shortages reportedly left several dormitories without adequate ventilation.
 
 In 1999, the university entered into an agreement with Provo Air Movement Products, a regional appliance manufacturer, to produce a box fan specifically for Nicollege residence halls. The resulting fan featured a white plastic frame, a three-speed motor, and the university's navy-and-gold **N** emblem on the center grille.
 
 The fan was initially university property and was checked out to students alongside dormitory keys and other residential equipment. Students frequently decorated the fans with stickers, residence hall names, and handwritten messages. By 2002, the university began selling branded versions through the campus bookstore.
+
+During this same period, Nicollege/Auguniversity expanded its campus amenities with the establishment of the **Nicreamery**, a student-run ice cream and dairy shop intended to rival Brigham Young University's well-known creamery. Founded in 2001 after a group of students returned from a "research trip" to BYU with strong opinions about frozen desserts, the Nicreamery quickly became a central gathering place on campus. Known for its experimental flavors such as _Declaration Dough_ and _Cage Rage Chocolate_, the Nicreamery fostered a friendly but intense rivalry with BYU’s creamery. The competition occasionally extended into promotional events, including the 2005 "Scoops Showdown," where Nicollege students attempted to out-serve BYU in total ice cream volume over a 24-hour period. Though unofficial, the Nicreamery remains a beloved institution and is often mentioned alongside the box fan as a defining element of Nicollege student life.
 
 ## Design
 
@@ -51,12 +55,25 @@ In 2024, Nicollege/Auguniversity released a commemorative box fan celebrating wh
 ## See also
 
 -   Nicollege/Auguniversity
+    
 -   Culture of Provo
+    
 -   Box fan
+    
 -   College traditions in the United States
+    
 -   Provo Golden Eagles
+    
 
 ## References
+
+-   _Nicollege Daily Chronicle_. "Residence Halls Face Fan Shortage." September 3, 2011.
+    
+-   Nicollege/Auguniversity Office of Residential Comfort. _A History of Campus Ventilation, 1957–2017_. Nicollege University Press, 2018.
+    
+-   Wilkins, Robert. "The Wall of Wind: How a Box Fan Became a Campus Icon." _Provo Monthly_, August 2019.
+    
+-   Nicollege/Auguniversity Board of Trustees. _Minutes of the October 2021 General Meeting_. 2021.
 
 -   _Nicollege Daily Chronicle_. "Residence Halls Face Fan Shortage." September 3, 2011.
 -   Nicollege/Auguniversity Office of Residential Comfort. _A History of Campus Ventilation, 1957–2017_. Nicollege University Press, 2018.
