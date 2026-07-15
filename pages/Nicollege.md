@@ -55,25 +55,12 @@ In 2024, Nicollege/Auguniversity released a commemorative box fan celebrating wh
 ## See also
 
 -   Nicollege/Auguniversity
-    
 -   Culture of Provo
-    
 -   Box fan
-    
 -   College traditions in the United States
-    
 -   Provo Golden Eagles
-    
 
 ## References
-
--   _Nicollege Daily Chronicle_. "Residence Halls Face Fan Shortage." September 3, 2011.
-    
--   Nicollege/Auguniversity Office of Residential Comfort. _A History of Campus Ventilation, 1957–2017_. Nicollege University Press, 2018.
-    
--   Wilkins, Robert. "The Wall of Wind: How a Box Fan Became a Campus Icon." _Provo Monthly_, August 2019.
-    
--   Nicollege/Auguniversity Board of Trustees. _Minutes of the October 2021 General Meeting_. 2021.
 
 -   _Nicollege Daily Chronicle_. "Residence Halls Face Fan Shortage." September 3, 2011.
 -   Nicollege/Auguniversity Office of Residential Comfort. _A History of Campus Ventilation, 1957–2017_. Nicollege University Press, 2018.
